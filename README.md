@@ -21,7 +21,7 @@ Windows + PCコントローラー（人数分）
 Unity 2022.3.24f1
 
 ### 紹介動画
-<iframe src="https://drive.google.com/file/d/1hlx5M28lw2TYKYtjw2Vc3fSDGMrejWVq/preview" width="480" height="270"></iframe>
+[![a](./ScreenShot/title.png)](https://drive.google.com/file/d/1hlx5M28lw2TYKYtjw2Vc3fSDGMrejWVq/preview)
 
 ## 制作での工夫
 
